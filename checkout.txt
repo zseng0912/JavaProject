@@ -1,0 +1,169 @@
+Room Number: 016
+Customer Name: TAN
+I/C Number: 2424
+Contact Number: 015258
+Email Address: tan@gmail.com
+Check-In Date: 2023-06-02
+Check-Out Date: 2023-06-03
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 017
+Customer Name: srs
+I/C Number: t
+Contact Number: tz
+Email Address: t
+Check-In Date: 2023-06-02
+Check-Out Date: 2023-06-04
+Duration of Stay: 2 days
+Room Charges: RM700.0
+Service Tax: RM70.0
+Tourism Tax: RM20.0
+Total Charges: RM790.0
+
+Room Number: 010
+Customer Name: teo zen
+I/C Number: 9301841
+Contact Number: 82e280
+Email Address: zen@gmail.com
+Check-In Date: 2023-06-04
+Check-Out Date: 2023-06-06
+Duration of Stay: 2 days
+Room Charges: RM700.0
+Service Tax: RM70.0
+Tourism Tax: RM20.0
+Total Charges: RM790.0
+
+Room Number: 014
+Customer Name: shu yee feng
+I/C Number: 01326463566
+Contact Number: 0152435678
+Email Address: shuyeefeng@gmail.com
+Check-In Date: 2023-06-03
+Check-Out Date: 2023-06-05
+Duration of Stay: 2 days
+Room Charges: RM700.0
+Service Tax: RM70.0
+Tourism Tax: RM20.0
+Total Charges: RM790.0
+
+Room Number: 014
+Customer Name: DARVIN 
+I/C Number: 031020010253
+Contact Number: 0126358941
+Email Address: darvin@gmail.com
+Check-In Date: 2023-06-10
+Check-Out Date: 2023-06-13
+Duration of Stay: 3 days
+Room Charges: RM1050.0
+Service Tax: RM105.0
+Tourism Tax: RM30.0
+Total Charges: RM1185.0
+
+Room Number: 015
+Customer Name: NG IVAN
+I/C Number: 030412010577
+Contact Number: 0142657435
+Email Address: ivanng@gmail.com
+Check-In Date: 2023-06-10
+Check-Out Date: 2023-06-12
+Duration of Stay: 2 days
+Room Charges: RM700.0
+Service Tax: RM70.0
+Tourism Tax: RM20.0
+Total Charges: RM790.0
+
+Room Number: 015
+Customer Name: TAN
+I/C Number: 0242941190
+Contact Number: 018114211
+Email Address: tan@gmail.com
+Check-In Date: 2023-06-25
+Check-Out Date: 2023-06-26
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 014
+Customer Name: ADA
+I/C Number: ADA
+Contact Number: AD
+Email Address: AD
+Check-In Date: 2023-06-25
+Check-Out Date: 2023-06-26
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 015
+Customer Name: sfqaw
+I/C Number: qwrq
+Contact Number: qrq
+Email Address: qrq
+Check-In Date: 2023-06-27
+Check-Out Date: 2023-06-28
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 015
+Customer Name: qrqw
+I/C Number: rqw
+Contact Number: qrq
+Email Address: rq
+Check-In Date: 2023-06-27
+Check-Out Date: 2023-06-28
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 012
+Customer Name: TAN ZU SENG
+I/C Number: 030912010277
+Contact Number: 0183137025
+Email Address: zuseng@gmail.com
+Check-In Date: 2023-06-27
+Check-Out Date: 2023-06-28
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 012
+Customer Name: TANG JIN XUN
+I/C Number: 0301201010254
+Contact Number: 012456789
+Email Address: JINGXUN@gmail.com
+Check-In Date: 2023-06-27
+Check-Out Date: 2023-06-28
+Duration of Stay: 1 days
+Room Charges: RM350.0
+Service Tax: RM35.0
+Tourism Tax: RM10.0
+Total Charges: RM395.0
+
+Room Number: 015
+Customer Name: Teo Wei Jin
+I/C Number: 0307223164412
+Contact Number: 012545464
+Email Address: weijin@gmail.com
+Check-In Date: 2023-10-05
+Check-Out Date: 2023-10-07
+Duration of Stay: 2 days
+Room Charges: RM700.0
+Service Tax: RM70.0
+Tourism Tax: RM20.0
+Total Charges: RM790.0
+

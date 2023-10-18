@@ -1,0 +1,10 @@
+Zu Seng;Manager;zseng0912@gmail.com;skyboy5566;What was your first car?;audi;Bukit Jalil, Kuala Lumpur;Approved
+Jin Hui;Staff;jinhui@gmail.com;jinhui520520;What primary school did you attend?;SJK C PEI HWA;Bukit Jalil, Kuala Lumpur;Approved
+Ivan Ng;Staff;ivanng@gmail.com;ivanhaha;What secondary school did you attend?;HSM;Bukit Jalil;Approved
+Ler Ming Jun;Staff;mingjun@gmail.com;mingjun123;What is the name of the town where you were born?;Muar;Johor;Processing
+Darvin Balak;Staff;darvin@gmail.com;darvinbalak;What is the name of your first pet?;Vinvin;Melacca;Processing
+Hoeney;Staff;xiaohoney@gmail.com;xiaohoney520;What was your first car?;Lamborgini;Vista Amani Condo;Approved
+dhuahf;Staff;fa@gmai.com;skyboy5566;What primary school did you attend?;HSM;Bukit Jalil;Approved
+Veshal;Staff;veshal@gmail.com;veshal123;What secondary school did you attend?;HSM;Muar,Johor;Processing
+TANG JIN XUN;Staff;jinxun@gmail.com;jinxun123;What was your first car?;Myvi;Cheras;Approved
+TEo wei jin;Staff;weijin@gmail.com;weijin123;What was your first car?;supra;asdfafasf;Approved
